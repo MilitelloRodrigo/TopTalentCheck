@@ -1,0 +1,10 @@
+## Interface: 120007
+## Title: TopTalentCheck
+## Notes: Avisa en el Ready Check si tus talentos no coinciden con el build mas usado por los top players (datos de Raider.IO).
+## Author: Tu nombre
+## Version: 0.1.0
+## Dependencies: RaiderIO
+## SavedVariables: TopTalentCheckDB
+
+..\RaiderIO\db\db_talent_builds.lua
+Core.lua

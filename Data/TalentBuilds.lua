@@ -1,0 +1,2 @@
+-- PLACEHOLDER: reemplaza este archivo por el archivo de datos de Raider.IO que define ns.TALENT_BUILDS.
+-- Ver README.txt.
